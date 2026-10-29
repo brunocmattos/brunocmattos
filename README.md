@@ -21,7 +21,6 @@ Design first (spec → plan → code), TDD, CI/CD and decision logs. I'm an **AI
 
 | | |
 |---|---|
-| [**portfolio-os**](https://github.com/brunocmattos/portfolio-os) | The system I use to run 30+ projects with AI agents: deterministic scripts measure (git, docs, health, coupling graph), Claude Code skills judge, and the docs never drift. Session ritual, daily map, multi-agent code audit. |
 | [**db-mcp**](https://github.com/brunocmattos/db-mcp) | Read-only MCP server for SQL databases (Postgres · MySQL · SQL Server). Gives AI agents schema introspection and `SELECT` without any write path. Python, FastMCP, mypy strict, CI. |
 | [**mtg-brain**](https://github.com/brunocmattos/mtg-brain) | Local "brain" for Magic: The Gathering: full card and combo database, API, React app, hybrid semantic search and an MCP server. Runs at US$ 0. |
 
