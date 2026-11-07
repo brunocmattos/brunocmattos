@@ -19,7 +19,7 @@
 | | Quest | What it does |
 |:-:|---|---|
 | <img src="https://raw.githubusercontent.com/brunocmattos/subquest/main/docs/assets/icon.png" width="40"> | [**Subquest**](https://github.com/brunocmattos/subquest) | Your Claude Code subagents as a pixel-art RPG party in a live pane. Heroes by model, monsters by tool, a boss per wave. Zero tokens. |
-| 🃏 | [**mtg-brain**](https://github.com/brunocmattos/mtg-brain) | A local brain for Magic: The Gathering: every card and combo, an API, a React app, hybrid semantic search and an MCP server. Runs at US$ 0. |
+| <img src="https://raw.githubusercontent.com/brunocmattos/mtg-brain/master/docs/assets/icon.png" width="40"> | [**mtg-brain**](https://github.com/brunocmattos/mtg-brain) | A local brain for Magic: The Gathering: every card and combo, an API, a React app, hybrid semantic search and an MCP server. Runs at US$ 0. |
 
 <p align="center">
   <a href="https://github.com/brunocmattos/subquest"><img src="https://raw.githubusercontent.com/brunocmattos/subquest/main/docs/assets/hero.gif" width="460" alt="Subquest in action"></a>
