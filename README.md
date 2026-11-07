@@ -1,52 +1,65 @@
-# Bruno Mattos
+<p align="center">
+  <img src="assets/banner.gif" width="100%" alt="BRUNO — Player 1 · Class: Engineer · Lv 31">
+</p>
 
-**Infrastructure & Automation Engineer** · Porto Alegre, Brazil · 🇧🇷 [Versão em português ↓](#-em-português)
+<p align="center">
+  I like building things.<br>
+  Porto Alegre, Brazil.
+</p>
 
-I take a business problem and carry it end to end: **network → servers → data → application → security**. Then I keep it running in production, with tests, monitoring and docs.
-
-At [Guarida](https://www.guarida.com.br), a large real-estate company in southern Brazil, I run infrastructure and build the software on top of it:
-
-- **Contact-center telephony.** Asterisk/FreePBX with ~150 extensions. A real-time call data warehouse in .NET. I'm building the telephony module of the new omnichannel platform: Asterisk 22 in HA, infrastructure as code, live transcription.
-- **Internal platforms.** **G-Live**, a webinar platform that replaced Zoom Webinar (load-tested at 500 viewers, p95 116 ms). **GBI**, the company's BI portal (787 users).
-- **Data & automation.** ETL into a DW, Airflow-orchestrated RPAs, and a banking-file pipeline (CNAB) with 0 errors across 573 runs/day.
-- **Infra & security.** ~18 servers (Linux/Windows, Hyper-V cluster), 7 FortiGates, 42 UniFi APs, a 678 GB PostgreSQL ERP, Active Directory hardening after a ransomware incident, an internal pentest and a GCP posture audit (526 projects).
-
-**~6,000 commits and thousands of automated tests in 2026**, mostly in private company repos ([@brunooutcore](https://github.com/brunooutcore) and Azure DevOps). This profile holds my open-source work and case studies.
-
-### How I work
-
-Design first (spec → plan → code), TDD, CI/CD and decision logs. I'm an **AI-native engineer**: I define the problem, design the architecture, review and ship, and I use AI agents as my execution tool. I also build my own tooling for that: MCP servers, Claude Code skills, and multi-agent code audits.
-
-### Open source
-
-| | |
-|---|---|
-| [**Subquest**](https://github.com/brunocmattos/subquest) | Claude Code mod that turns your subagents into a pixel-art RPG party in a live side pane: heroes by model, monsters by tool, a boss per wave. Zero tokens. TypeScript, original pixel art drawn in code, English + Portuguese. |
-| [**mtg-brain**](https://github.com/brunocmattos/mtg-brain) | Local "brain" for Magic: The Gathering: full card and combo database, API, React app, hybrid semantic search and an MCP server. Runs at US$ 0. |
-
-### Stack
-
-**Languages** · Python · C#/.NET · PHP/Laravel · TypeScript/Node · SQL · PowerShell · Bash
-**Data** · PostgreSQL · MySQL · SQL Server · Airflow · DuckDB · Grafana
-**Infra** · Linux · Windows Server/AD · Hyper-V · Docker · Ansible · nginx · GitHub Actions · Azure DevOps · GCP
-**Network & voice** · FortiGate · UniFi · VPN/IPsec · Asterisk · SIP/WebRTC
-**Security** · Pentest (AD kill chains) · cloud posture (CSPM) · hardening · LGPD
-**AI** · MCP · Claude Code (custom skills and agents)
-
-📫 [LinkedIn](https://www.linkedin.com/in/brunocmattos) · Open to **Infra / DevOps / SRE / Platform** roles, remote (Brazil & international) · Fluent English
+<p align="center">
+  <a href="https://github.com/brunocmattos/subquest"><img alt="Subquest" src="https://img.shields.io/badge/NOW_PLAYING-SUBQUEST-ff2a6d?style=for-the-badge&labelColor=0d0221"></a>
+  <a href="https://www.linkedin.com/in/brunocmattos"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-05d9e8?style=for-the-badge&logo=linkedin&logoColor=0d0221"></a>
+</p>
 
 ---
 
-## 🇧🇷 Em português
+### 🗺️ Active quests
 
-**Engenheiro de Infraestrutura & Automação.** Pego um problema de negócio e levo de ponta a ponta, da rede ao servidor, ao dado, à aplicação e à segurança, e mantenho rodando em produção com teste, monitoramento e documentação.
+| | Quest | What it does |
+|:-:|---|---|
+| <img src="https://raw.githubusercontent.com/brunocmattos/subquest/main/docs/assets/icon.png" width="40"> | [**Subquest**](https://github.com/brunocmattos/subquest) | Your Claude Code subagents as a pixel-art RPG party in a live pane. Heroes by model, monsters by tool, a boss per wave. Zero tokens. |
+| 🃏 | [**mtg-brain**](https://github.com/brunocmattos/mtg-brain) | A local brain for Magic: The Gathering: every card and combo, an API, a React app, hybrid semantic search and an MCP server. Runs at US$ 0. |
 
-Na [Guarida](https://www.guarida.com.br) eu cuido da infraestrutura e construo o software em cima dela:
-- **Telefonia do contact center:** Asterisk com ~150 ramais, DW de chamadas em tempo real e o módulo de telefonia da nova plataforma omnichannel (Asterisk 22 em alta disponibilidade, infra como código, transcrição ao vivo).
-- **Plataformas internas:** o **G-Live**, webinar próprio que substituiu o Zoom, e o **GBI**, portal de BI com 787 usuários.
-- **Dados e automação:** ETL, RPAs no Airflow e a esteira de arquivos bancários (CNAB).
-- **Infra e segurança:** ~18 servidores, 7 FortiGates, 42 APs, ERP PostgreSQL de 678 GB, hardening de AD pós-ransomware, pentest interno e auditoria de nuvem GCP.
+<p align="center">
+  <a href="https://github.com/brunocmattos/subquest"><img src="https://raw.githubusercontent.com/brunocmattos/subquest/main/docs/assets/hero.gif" width="460" alt="Subquest in action"></a>
+</p>
 
-São **~6.000 commits e milhares de testes em 2026**, a maior parte em repositórios privados. Aqui ficam o open-source e os cases. Trabalho *AI-native*: eu defino, desenho, reviso e coloco em produção, e construo minhas próprias ferramentas de agente.
+### 🎒 Inventory
 
-Destaque open-source: **[Subquest](https://github.com/brunocmattos/subquest)**, um mod do Claude Code que transforma os subagentes num grupo de RPG em pixel art, com monstros por ferramenta e um chefe por leva, sem gastar token.
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-0d0221?style=for-the-badge&logo=typescript&logoColor=05d9e8">
+  <img alt="Python" src="https://img.shields.io/badge/Python-0d0221?style=for-the-badge&logo=python&logoColor=05d9e8">
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-0d0221?style=for-the-badge&logo=nodedotjs&logoColor=05d9e8">
+  <img alt="React" src="https://img.shields.io/badge/React-0d0221?style=for-the-badge&logo=react&logoColor=05d9e8">
+  <img alt="C#" src="https://img.shields.io/badge/C%23-0d0221?style=for-the-badge&logo=dotnet&logoColor=ff2a6d">
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-0d0221?style=for-the-badge&logo=fastapi&logoColor=ff2a6d">
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-0d0221?style=for-the-badge&logo=postgresql&logoColor=ff2a6d">
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0d0221?style=for-the-badge&logo=docker&logoColor=ff2a6d">
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-0d0221?style=for-the-badge&logo=linux&logoColor=7700ff">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/Actions-0d0221?style=for-the-badge&logo=githubactions&logoColor=7700ff">
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-0d0221?style=for-the-badge&logo=claude&logoColor=7700ff">
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-0d0221?style=for-the-badge&logo=modelcontextprotocol&logoColor=7700ff">
+</p>
+
+### 📊 Player stats
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=brunocmattos&hide_border=true&background=0D0221&ring=FF2A6D&fire=FF2A6D&currStreakNum=05D9E8&sideNums=05D9E8&currStreakLabel=FF2A6D&sideLabels=F5E9FF&dates=7700FF&stroke=2A0F4F" alt="Contribution streak">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocmattos&layout=compact&hide_border=true&langs_count=6&bg_color=0D0221&title_color=FF2A6D&text_color=05D9E8" alt="Top languages">
+</p>
+
+---
+
+<details>
+<summary>🇧🇷 Em português</summary>
+<br>
+
+Oi, eu sou o Bruno. Gosto de construir coisas. Porto Alegre, Brasil.
+
+- **[Subquest](https://github.com/brunocmattos/subquest):** os subagentes do Claude Code viram um grupo de RPG em pixel art, num painel ao vivo. Herói pelo modelo, monstro pela ferramenta, um chefe por leva. Zero tokens.
+- **[mtg-brain](https://github.com/brunocmattos/mtg-brain):** um "cérebro" local de Magic: The Gathering, com todas as cartas e combos, API, app React, busca semântica e servidor MCP. Custa US$ 0.
+
+</details>
+
+<p align="center"><sub>⭐ If one of these made your day better, a star on <a href="https://github.com/brunocmattos/subquest">Subquest</a> helps other devs find it.</sub></p>
