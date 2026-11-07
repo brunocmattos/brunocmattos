@@ -21,7 +21,7 @@ Design first (spec → plan → code), TDD, CI/CD and decision logs. I'm an **AI
 
 | | |
 |---|---|
-| [**db-mcp**](https://github.com/brunocmattos/db-mcp) | Read-only MCP server for SQL databases (Postgres · MySQL · SQL Server). Gives AI agents schema introspection and `SELECT` without any write path. Python, FastMCP, mypy strict, CI. |
+| [**Subquest**](https://github.com/brunocmattos/subquest) | Claude Code mod that turns your subagents into a pixel-art RPG party in a live side pane: heroes by model, monsters by tool, a boss per wave. Zero tokens. TypeScript, original pixel art drawn in code, English + Portuguese. |
 | [**mtg-brain**](https://github.com/brunocmattos/mtg-brain) | Local "brain" for Magic: The Gathering: full card and combo database, API, React app, hybrid semantic search and an MCP server. Runs at US$ 0. |
 
 ### Stack
@@ -48,3 +48,5 @@ Na [Guarida](https://www.guarida.com.br) eu cuido da infraestrutura e construo o
 - **Infra e segurança:** ~18 servidores, 7 FortiGates, 42 APs, ERP PostgreSQL de 678 GB, hardening de AD pós-ransomware, pentest interno e auditoria de nuvem GCP.
 
 São **~6.000 commits e milhares de testes em 2026**, a maior parte em repositórios privados. Aqui ficam o open-source e os cases. Trabalho *AI-native*: eu defino, desenho, reviso e coloco em produção, e construo minhas próprias ferramentas de agente.
+
+Destaque open-source: **[Subquest](https://github.com/brunocmattos/subquest)**, um mod do Claude Code que transforma os subagentes num grupo de RPG em pixel art, com monstros por ferramenta e um chefe por leva, sem gastar token.
