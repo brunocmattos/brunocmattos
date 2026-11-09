@@ -46,7 +46,7 @@
 
 <p align="center">
   <img height="165" src="https://streak-stats.demolab.com?user=brunocmattos&hide_border=true&background=0D0221&ring=FF2A6D&fire=FF2A6D&currStreakNum=05D9E8&sideNums=05D9E8&currStreakLabel=FF2A6D&sideLabels=F5E9FF&dates=7700FF&stroke=2A0F4F" alt="Contribution streak">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunocmattos&layout=compact&hide_border=true&langs_count=6&bg_color=0D0221&title_color=FF2A6D&text_color=05D9E8" alt="Top languages">
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brunocmattos&theme=radical&bg_color=0D0221&title_color=FF2A6D&text_color=05D9E8&icon_color=FF2A6D&border_color=2A0F4F&chart_color=7700FF" alt="Top languages">
 </p>
 
 ---
